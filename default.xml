@@ -1874,4 +1874,8 @@
   <project name="LineageOS/update_verifier" />
   <project name="LineageOS/www" />
   <project name="LineageOS/zte-kernel-msm7x27" />
+  <project name="lineageos-for-kinzie/android_device_motorola_kinzie" />
+  <project name="lineageos-for-kinzie/android_kernel_motorola_msm8992" />
+  <project name="lineageos-for-kinzie/android_vendor_motorola_kinzie" />
+  
 </manifest>
